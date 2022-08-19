@@ -6,7 +6,7 @@ config.env Example:
 
 ```node
 PASSWORD=root123456
-LOGIN=root
+LOGIN=root123
 DATABASE=mongodb+srv://<username>:<password>@clustermironshoh.rudaqat.mongodb.net/MagicTour?retryWrites=true&w=majority
 PORT=8000
 NODE_ENV=DEVELOPMENT
