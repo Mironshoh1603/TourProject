@@ -25,4 +25,4 @@ EMAIL_PASS=your email password
 
 # T o u r P r o j e c t
 
-![langing](./public/img/landingpage.png.png)
+![langing](./public/img/landingpage.png)
