@@ -1,4 +1,4 @@
-# startProject
+# T o u r P r o j e c t
 
 You must add config.env in the main directory
 
@@ -18,11 +18,5 @@ EMAIL_PORT=465
 EMAIL_USER=Your email login
 EMAIL_PASS=your email password
 ```
-
-# T o u r P r o j e c t
-
-# T o u r P r o j e c t
-
-# T o u r P r o j e c t
 
 ![langing](./public/img/landingpage.png)
